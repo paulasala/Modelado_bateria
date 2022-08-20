@@ -1,6 +1,10 @@
-/constant_current
-/MISC
-/Motor
-*.mlx
-*m
-*point.preasure
+constant_current/
+MISC/
+Motor/
+BombaIndividual.mlx
+BombasParalelo.mlx
+BombasSerie.mlx
+dataPresion.m
+main.mlx
+simulacionReal.mlx
+point.preasure
